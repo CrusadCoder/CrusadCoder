@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrusadCoder
-- 👀 I’m interested in C++, Python coding
+- 👀 I’m interested in C++, Python coding and game developing
 - 🌱 I’m currently learning C++
 
 <!---
